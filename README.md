@@ -1,10 +1,23 @@
-/lotto
-├── index.php            # Plik główny aplikacji
-├── process.php          # Obsługuje przetwarzanie logiki
-├── Lotto.php            # Klasa zarządzająca logiką gry w Lotto
-├── db_connect.php       # Plik łączący z bazą danych
-├── script.js            # Skrypty JavaScript (opcjonalnie)
-├── style.css            # Style CSS (opcjonalnie)
-├── database_schema.sql  # Schemat bazy danych
-├── README.md            # Dokumentacja projektu
-└── .gitignore           # Wykluczenia dla Gita
+# Lotto Simulation App
+Aplikacja do symulacji losowań Lotto, napisana w PHP.
+- PHP 8.2 lub nowszy
+- MySQL 5.7 lub nowszy
+- Composer
+- Przeglądarka internetowa
+git clone https://github.com/Koshirama/lotto-simulation.git
+cd lotto-simulation
+composer install
+# Lotto Simulation App
+## Opis
+Aplikacja do symulacji losowań Lotto, napisana w PHP.
+## Wymagania
+- PHP 8.2 lub nowszy
+- MySQL 5.7 lub nowszy
+- Composer
+- Przeglądarka internetowa
+
+## Instalacja
+```bash
+git clone https://github.com/Koshirama/lotto-simulation.git
+cd lotto-simulation
+composer install
